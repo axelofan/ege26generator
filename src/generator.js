@@ -149,7 +149,7 @@ const game = {
     },
    
     init: function() {
-        if (Math.random()<=0) {
+        if (Math.random()<=0.3) {
             this.type = 1
             let s = randint(50,100)
             this.a = randint(1,3)
