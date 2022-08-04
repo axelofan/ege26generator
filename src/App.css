@@ -28,3 +28,7 @@ p {
     font-weight: bolder;
     border-bottom: 2px dashed;
 }
+
+.code {
+    font-family: monospace;
+}
